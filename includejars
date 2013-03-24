@@ -1,0 +1,11 @@
+register /home/abhinavp/pig/lib/BIAnalyticsUDF.jar;
+register /home/abhinavp/pig/lib/ivory-targen-0.1-SNAPSHOT.jar;
+register /home/abhinavp/pig/lib/jackson-jaxrs-1.0.1.jar;
+register /home/abhinavp/pig/lib/json-simple-1.1.jar;
+register /home/abhinavp/pig/lib/thrift-server-0.1.jar;
+register /home/abhinavp/pig/lib/bi-analytics-0.6.jar;
+register /home/abhinavp/pig/lib/google-collect-1.0.jar;
+register /home/abhinavp/pig/lib/jackson-core-asl-1.0.1.jar;
+register /home/abhinavp/pig/lib/jackson-mapper-asl-1.0.1.jar;
+register /home/abhinavp/pig/lib/libthrift-0.7.0.jar;
+register /home/abhinavp/pig/lib/UDIDEncryption-1.0.jar;
